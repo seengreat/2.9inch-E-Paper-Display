@@ -174,7 +174,7 @@ Image Creation and Modeling Instructions
 ### Image Creation
 Create images that need to be displayed in 296*128 resolution as pure black and white images (grayscale is not supported), save them as BMP or JPG files (BMP format is recommended).<br>
 ### Modeling
-Modeling can be done using the "image2lcd" software provided in the compressed package. <br>
+Modeling can be done using the "image2lcd" software provided in the compressed package.Taking the example of achieving the effect in Figure 2-2, the modeling parameter setting interface is shown in Figure 2-3: <br>
 1、Open the image that needs to be modeled.<br>
 2、Output data type: Select "C Language Array (*.c)".<br>
 3、Scan mode: Select "Vertical Scan".<br>
